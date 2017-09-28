@@ -1,0 +1,94 @@
+#recap td
+{ border-bottom : 2px solid purple;
+  padding-right : 2px;
+  padding-bottom : 2px;
+  margin-right : 10px;
+}
+.vertical_orange
+{ border-left : 1px solid orange;
+  padding-left : 5px;
+  padding-right : 2px;
+  vertical-align : top;
+}
+.rouge
+{ color : red;
+}
+.gras
+{ font-weight : bold;
+}
+.marge
+{ margin-top : 10px;
+  margin-bottom : 10px;
+}
+.gras
+{ font-weight : bold;
+}
+.centrer
+{ text-align:center;
+}
+.lien a{
+color : purple;
+}
+
+#table_accueil
+{ width : 80%;
+}                               
+#table_accueil td
+{ width : 30%;
+}
+#wrapper
+{ width : 80%;
+  margin : 0 auto;
+}
+
+#enseigne{
+border : 3px solid purple;
+text-align : center;
+font-weight : bold;
+letter-spacing : 2px;
+font-size : 180%;
+}
+header{
+border-bottom : 2px solid orange;
+}
+
+footer
+{ text-align : center;
+  border-top: 2px solid orange;
+  clear : both;
+  margin-top : 30px;
+}
+#menu
+{ 
+  font-size : 110%;
+  float : left;
+  width : 180px;
+  margin-right : 5px;
+  
+  text-align : left;
+  font-weight : bold;
+  padding-left : 0px;
+  padding-right : 0px;
+  
+ }
+ #menu ul
+ { 
+    padding-left : 1px;
+ }
+ #menu li
+ { list-style-type : none;
+   
+ }
+ #menu a
+ { text-decoration : none;
+   color : purple;
+   }
+ #menu a:hover{
+  background-color : orange;
+  color : white;
+  }
+  #contenu
+  { margin-left : 190px;
+   
+   
+  }
